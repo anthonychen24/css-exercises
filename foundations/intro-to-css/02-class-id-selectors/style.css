@@ -1,0 +1,20 @@
+.oddPinkAndFont{
+    background: #fc03df;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+
+}
+
+#num2{
+    color: #032cfc;
+    font-size: 36px;
+}
+
+.size24{
+    font-size: 24px;
+}
+
+#num4{
+    font-size: 24px;
+    font-weight: bold;
+    background: #03fca9;
+}
