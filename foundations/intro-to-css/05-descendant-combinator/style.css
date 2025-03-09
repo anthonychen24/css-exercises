@@ -1,0 +1,26 @@
+/* Class to class descendant selection */
+
+.container .text{
+    background: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Type to type descendant selection */
+
+/* div p{
+    background: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* Type selector to class selector descendant selection */
+
+/* div .text{
+    background: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
